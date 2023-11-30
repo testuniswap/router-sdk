@@ -1,7 +1,7 @@
 import invariant from 'tiny-invariant'
 
 import { Currency, Price, Token } from '@myunidavid/sdk-core'
-import { Pool } from '@uniswap/v3-sdk'
+import { Pool } from '@myunidavid/v3-sdk'
 import { Pair } from '@myunidavid/v2-sdk'
 
 type TPool = Pair | Pool

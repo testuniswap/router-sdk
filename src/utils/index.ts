@@ -1,6 +1,6 @@
 import { Currency, Token } from '@myunidavid/sdk-core'
 import { Pair } from '@myunidavid/v2-sdk'
-import { Pool } from '@uniswap/v3-sdk'
+import { Pool } from '@myunidavid/v3-sdk'
 import { MixedRouteSDK } from '../entities/mixedRoute/route'
 
 /**
